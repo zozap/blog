@@ -4,4 +4,20 @@ img {
   margin-left: auto;
   margin-right: auto;
   }
-  
+#subheader {
+   display: auto;
+  text-align: center;
+  color: #ACA39E;
+  font-size: 15pt;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+}
+li {
+    float: left;
+  text-decoration: none;
+    padding: 10px;
+}

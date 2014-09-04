@@ -23,3 +23,12 @@ ul {
   text-decoration: none;
     padding-right: 10px;
 }
+header {
+  padding-top: 100px;
+  text-align: center;
+}
+p {
+  color: #ACA39E;
+  padding-left: 300px;
+  padding-right: 300px;
+}

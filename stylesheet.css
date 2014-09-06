@@ -36,3 +36,8 @@ p {
 #me {
   float: center;
 }
+
+#rhetoric p {
+  float: left;
+  padding-top: 00px;
+}

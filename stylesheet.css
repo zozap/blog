@@ -68,4 +68,7 @@ body {
 #response, p {
 color: black;
 font-size: 12pt;
+  padding-left: 50pt;
+  padding-right: 50pt;
 }
+

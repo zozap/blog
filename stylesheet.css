@@ -44,5 +44,16 @@ p {
 
 iframe {
   float: center;
-   padding-top: 75px;
+}
+
+#title {
+  text-align: center;
+  color: #8B8805;
+  font-size: 15pt; 
+    padding-top: 75px;
+}
+
+footer {
+  text-align: center;
+  font-size: 10pt;
 }

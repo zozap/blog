@@ -57,6 +57,7 @@ iframe {
 footer {
   text-align: center;
   font-size: 10pt;
+  color: #ACA39E;
 }
 
 body {
@@ -64,3 +65,7 @@ body {
   float: center;
 }
 
+#response, p {
+color: black;
+font-size: 12pt;
+}

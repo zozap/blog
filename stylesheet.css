@@ -40,6 +40,8 @@ p {
 #rhetoric p {
   float: left;
   padding-top: 00px;
+  padding-left: 200pt;
+  padding-right: 200pt;
   color: #ACA39E;
 }
 
@@ -72,4 +74,5 @@ font-size: 12pt;
   padding-left: 50pt;
   padding-right: 50pt;
 }
+
 
